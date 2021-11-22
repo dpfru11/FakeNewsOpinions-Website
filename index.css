@@ -1,0 +1,62 @@
+header {
+  text-align: center;
+  background-color: blanchedalmond
+}
+p {
+  text-align: justify;
+}
+h2 {
+text-align: center;
+}
+col-sm-34.test{
+  border: 1px red;
+  margin-left: 25px;
+  padding: 40px;
+  text-align: center;
+}
+.Fake{
+  background-color: blanchedalmond
+}
+header{
+  margin-bottom: 0;
+}
+.High_Opinion{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 8px;
+}
+.Somewhat_High{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 8px;
+}
+.Watchdogs{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 8px;
+}
+.newsdata{
+  background-color: blanchedalmond;
+  margin-top: 8px;
+}
+.deviceuse{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4{
+  text-align: center;
+}
+.despacito{
+  text-align: center;
+}
+.Ad{
+background-color: magenta;
+}
